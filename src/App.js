@@ -1,10 +1,11 @@
-import React from 'react';
-import './App.css';
+import React from "react";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Draw a diagram programmatically</h1>
+    <div>
+      <h1 className="text-center mt-4 text-xl">
+        Diagrams drawn programatically
+      </h1>
     </div>
   );
 }
